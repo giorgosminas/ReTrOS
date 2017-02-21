@@ -1,0 +1,12 @@
+17C_RBL.txt:
+
+Mol Syst Biol. 2013;9:650. doi: 10.1038/msb.2013.7.
+Network balance via CRY signalling controls the Arabidopsis circadian clock over ambient temperatures.
+Gould PD1, Ugarte N, Domijan M, Costa M, Foreman J, Macgregor D, Rose K, Griffiths J, Millar AJ, Finkenstädt B, Penfield S, Rand DA, Halliday KJ, Hall AJ.
+
+
+clock_genes_mRNA.txt:
+
+Plant Cell. 2012 Sep;24(9):3530-57. doi: 10.1105/tpc.112.102046
+Arabidopsis defense against Botrytis cinerea: chronology and regulation deciphered by high-resolution temporal transcriptomic analysis.
+Windram O1, Madhou P, McHattie S, Hill C, Hickman R, Cooke E, Jenkins DJ, Penfold CA, Baxter L, Breeze E, Kiddle SJ, Rhodes J, Atwell S, Kliebenstein DJ, Kim YS, Stegle O, Borgwardt K, Zhang C, Tabrett A, Legaie R, Moore J, Finkenstadt B, Wild DL, Mead A, Rand D, Beynon J, Ott S, Buchanan-Wollaston V, Denby KJ.
